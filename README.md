@@ -1,3 +1,6 @@
+
+
+
 Welcome to my GitHub! I'm Eduardo, passionate about programming. I love doing useful and fun things with programming, listening to different types of music, sharing with family and riding motorcicles
 
 ✔️ I'm currently learning
